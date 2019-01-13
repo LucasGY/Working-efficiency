@@ -1,5 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)]
-(https://mybinder.org/v2/gh/LucasGY/Working-efficiency/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/LucasGY/Working-efficiency/master)
 
 # Working efficiency
 
