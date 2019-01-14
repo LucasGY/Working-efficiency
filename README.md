@@ -6,5 +6,5 @@
 
 ## Note列表
 
-* [Markdown_demo.ipynb](http://nbviewer.ipython.org/github/LucasGY/Working-efficiency/tree/master/Mardown_study/Markdown_demo.ipynb)
-* [Markdown_demo.md](https://github.com/LucasGY/Working-efficiency/blob/master/Markdown_demo.md)
+* [Markdown_demo.ipynb](http://nbviewer.ipython.org/github/LucasGY/Working-efficiency/blob/master/1-Mardown_study/Markdown_demo.ipynb)
+* [Markdown_demo.md](https://github.com/LucasGY/Working-efficiency/blob/master/1-Mardown_study/Markdown_demo.md)
